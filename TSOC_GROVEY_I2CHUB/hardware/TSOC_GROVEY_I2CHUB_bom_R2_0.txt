@@ -1,0 +1,43 @@
+Partlist exported from U:/PatternAgents/eagle/TSOC_Modules/TSOC_GROVEY_I2CHUB/TSOC_GROVEY_I2CHUB/TSOC_GROVEY_I2CHUB.sch Revison 2.0 at 9/2/2016 12:30:56 PM
+
+Part  Value             Device                          Package           Description                           
+D1    RED               LED0603                         LED-0603          LEDs                                  
+C1    0.1uF             CAP0603-CAP                     0603-CAP          Capacitor                             
+C2    0.1uF             CAP0603-CAP                     0603-CAP          Capacitor                             
+C3    0.1uF             CAP0603-CAP                     0603-CAP          Capacitor                             
+C4    0.1uF             CAP0603-CAP                     0603-CAP          Capacitor                             
+C5    470pF             CAP0603-CAP                     0603-CAP          Capacitor                             
+C6    0.1uF             CAP0603-CAP                     0603-CAP          Capacitor                             
+C7    0.1uF             CAP0603-CAP                     0603-CAP          Capacitor                             
+I2C1  4P-2.0-90D        GROVE-CONNECTOR-DIP-90D(4P-2.0) HW4-2.0-90D       320110034                             
+I2C2  4P-2.0-90D        GROVE-CONNECTOR-DIP-90D(4P-2.0) HW4-2.0-90D       320110034                             
+I2C3  4P-2.0-90D        GROVE-CONNECTOR-DIP-90D(4P-2.0) HW4-2.0-90D       320110034                             
+I2C4  4P-2.0-90D        GROVE-CONNECTOR-DIP-90D(4P-2.0) HW4-2.0-90D       320110034                             
+R1    1K                RESISTOR_SFE0603-RES            0603-RES          Resistor                              
+R2    2k2               RESISTOR0603-RES                0603-RES          Resistor                              
+R3    2k2               RESISTOR0603-RES                0603-RES          Resistor                              
+R4    2k2               RESISTOR0603-RES                0603-RES          Resistor                              
+R5    2k2               RESISTOR0603-RES                0603-RES          Resistor                              
+R6    2k2               RESISTOR0603-RES                0603-RES          Resistor                              
+R7    2k2               RESISTOR0603-RES                0603-RES          Resistor                              
+R8    10K               RESISTOR0603-RES                0603-RES          Resistor                              
+R9    10K               RESISTOR0603-RES                0603-RES          Resistor                              
+R10   10K               RESISTOR0603-RES                0603-RES          Resistor                              
+R11   10k               RESISTOR0603-RES                0603-RES          Resistor                              
+R12   2k2               RESISTOR0603-RES                0603-RES          Resistor                              
+R13   2k2               RESISTOR0603-RES                0603-RES          Resistor                              
+R14   2k2               RESISTOR0603-RES                0603-RES          Resistor                              
+R15   2k2               RESISTOR0603-RES                0603-RES          Resistor                              
+U1    PCA9546A          PCA9546A                        SOP65P640X110-16N 4-channel I2C-bus switch with reset   
+J1    NO                JMP-3-NO-PTH                    JMP-3-NO-PTH-2.54 Three Terminal Jumper
+JMP1  Jumper            2 Pin Jumper                    2 Pin Jumper      Installed on J1-1 to J1-2 (3.3V)
+
+Do Not Populate
+--------------------------------------------------------------------------------------------
+GND                     M01PTH                          1X01              Ground Strap  
+I2CS  4P-2.0            GROVE-CONNECTOR-DIP(4P-2.0)     HW4-2.0           320110033                             
+!RST  NO                JMP-2-NO                        JMP-2-NO          Basic Jumper - Normally Open          
+A0    NO                JMP-2-NO                        JMP-2-NO          Basic Jumper - Normally Open          
+A1    NO                JMP-2-NO                        JMP-2-NO          Basic Jumper - Normally Open          
+A2    NO                JMP-2-NO                        JMP-2-NO          Basic Jumper - Normally Open          
+

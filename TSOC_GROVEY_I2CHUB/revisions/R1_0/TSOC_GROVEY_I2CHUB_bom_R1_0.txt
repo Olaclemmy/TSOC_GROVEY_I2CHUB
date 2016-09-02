@@ -1,0 +1,15 @@
+Partlist exported from U:/PatternAgents/eagle/TSOC_Modules/TSOC_GROVEY_I2CHUB/TSOC_GROVEY_I2CHUB/TSOC_GROVEY_I2CHUB.sch at 8/26/2016 2:21:03 PM
+
+Qty Value             Device                          Package           Parts                                        Description
+1                     EEPROM_I2C_SOIC8_GENERIC        SOIC8_150MIL      U2                                           Note: The same pinout is used 
+5                     JMP-2-NO                        JMP-2-NO          SJ0, SJ1, SJ2, SJ3, SJ4                      Basic Jumper - Normally Open
+1                     JMP-3-NO-PTH                    JMP-3-NO-PTH-2.54 J1                                           Three Terminal Jumper - Normally Op
+1                     LED0603                         LED-0603          D1                                           LEDs
+3                     RESISTOR0603-RES                0603-RES          R1, R2, R3                                   Resistor  
+6   0.1uF             CAP0603-CAP                     0603-CAP          C1, C2, C4, C5, C6, C7                       Capacitor     
+2   10k               RESISTOR0603-RES                0603-RES          R4, R5                                       Resistor
+1   1K                RESISTOR_SFE0603-RES            0603-RES          R16                                          Resistor          
+10  2k2               RESISTOR0603-RES                0603-RES          R6, R7, R8, R9, R10, R11, R12, R13, R14, R15 Resistor    
+1   470nF             CAP0603-CAP                     0603-CAP          C3                                           Capacitor 
+4   4P-2.0-90D        GROVE-CONNECTOR-DIP-90D(4P-2.0) HW4-2.0-90D       J1_I2C, J2_I2C, J3_I2C, J4_I2C               320110034                          
+1   PCA9546A          PCA9546A                        SOP65P640X110-16N U1                                           4-channel I2C-bus switch with reset
