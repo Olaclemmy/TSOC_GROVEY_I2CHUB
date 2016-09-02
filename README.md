@@ -19,22 +19,15 @@ THe thingSoC "Grovey Series" was designed as "Everyday Electronics", a no-frills
 * [Mikrobus Compatible Module](http://www.mikroe.com/mikrobus/) 
 * 5V Nominal Power Input
 * 5V or 3.3V Operation
-* Supports Analog  Inputs  (ADC) 
-* Supports Digital Outputs (GPIO)
-* Supports Digital Inputs  (GPIO)
-* Supports I2C Interface
-* Supports UART Interface
-* Supports SPI Interface
+* Supports four (4) separate I2C busses 
 
 
 ---------------------------------------
-## Example Applications
+## Example Uses
 
-* [Weather Sensor](http://www.mikroe.com/click/weather/) BOSCH BME280 Temp, Humidity, Air Pressure
-* [Methane Sensor](http://www.mikroe.com/click/methane/) MQ-4 Sensor for Methane (CH4) 
-* [Air Quality Sensor](http://www.mikroe.com/click/air-quality/) MQ-135 Sensor for Harmful Gasses
-* [Lightning Sensor](http://www.mikroe.com/click/thunder/) AS3935 Lighting Strike Detector
-* [Controlled Relay](http://www.mikroe.com/click/relay/) G6D1AASI Power Relay Control Module
+* Any time you want to connect four (4) of the same sensor, using the same I2C address, then you need an I2C Hub/Switch.
+* Adds four (4) I2C ports to any [thingSoC](http://thingsoc.github.io/), [Mikrobus](http://www.mikroe.com/mikrobus/), 
+and/or [Grove System](http://www.seeedstudio.com/blog/2016/03/09/tutorial-intro-to-grove-connectors-for-arduinoraspberry-pi-projects/) peripherals.
 
 ---------------------------------------
 ## 3D Model (Sketchup)
@@ -49,7 +42,7 @@ THe thingSoC "Grovey Series" was designed as "Everyday Electronics", a no-frills
 
 ## Revision 2.0 Notes: ##
 
-* Add FTDI Connector
+* Add Ground Strap, remove FM24V10 FRAM, add GROVE I2C Slave connector slot.
 
 ---------------------------------------
 
