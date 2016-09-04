@@ -13,11 +13,11 @@ This gives you maximum flexiblity for sensor and actuator selection, and reuse.
 
 ## Documentation Index <a name="documentation_index"/>
 
-[TSOC_GROVEY_I2CHUB Quick Start Guide](https://github.com/PatternAgents/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/docs/qsg.md)
+[[TSOC_GROVEY_I2CHUB Quick Start Guide](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/docs/QuickStart.md)
 
-[TSOC_GROVEY_I2CHUB User Guide](https://github.com/PatternAgents/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/docs/ug.md)
+[TSOC_GROVEY_I2CHUB User Guide](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/docs/UserGuide.md)
 
-[TSOC_GROVEY_I2CHUB Theory of Operation](https://github.com/PatternAgents/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/docs/theory.md)
+[TSOC_GROVEY_I2CHUB Theory of Operation](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/docs/TheoryOfOperation.md)
 
 [thingSoC Organization Website](http://thingSoC.github.io)
 
