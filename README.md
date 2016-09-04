@@ -8,8 +8,15 @@ and/or [Grove System](http://www.seeedstudio.com/blog/2016/03/09/tutorial-intro-
 Modules all at the same time, using the Arduino Development environment, with any processor module.
 This gives you maximum flexiblity for parts selection and reuse. 
 
-THe thingSoC "Grovey Series" was designed as "Everyday Electronics", a no-frills, low cost, approach to modular embedded product design.
+The thingSoC "Grovey Series" was designed as "Everyday Electronics", a no-frills, low cost, approach to modular embedded product design.
+thingSoC boards are similar in size to most break-out-boards (BOBs), but feature a standardized stacking pinout, as well as an I2C metadata store (EEPROM)
+to indicate what peripherals are installed.
 
+[![thingSoC GROVEY_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/images/product/TSOC_GROVEY_I2CHUB_top.png?raw=true)TSOC_GROVEY_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/)
+
+**thingSoC Reference Designs** are example thingSoC implementations that implement
+various reference and testing circuits for demonstrating the use of the thingSoC libraries.
+These reference designs can serve as starting templates for user designs.
 ---------------------------------------
 
 [![thingSoC GROVEY_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/images/TSOC_GROVEY_I2CHUB_top.png?raw=true)TSOC_GROVEY_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/)
