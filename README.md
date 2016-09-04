@@ -5,7 +5,7 @@ The **TSOC_GROVEY_I2CHUB** can operate at either 3.3V or 5V, and can also level 
 
 The **TSOC_GROVEY_I2CHUB** allows you to connect [thingSoC](http://thingsoc.github.io/), [Mikrobus](http://www.mikroe.com/mikrobus/), 
 and/or [Grove System](http://www.seeedstudio.com/blog/2016/03/09/tutorial-intro-to-grove-connectors-for-arduinoraspberry-pi-projects/) 
-Modules all at the same time, using the Arduino Development environment, with any processor module.
+Modules all at the same time, with any processor module.
 This gives you maximum flexiblity for parts selection and reuse. 
 
 The thingSoC "Grovey Series" was designed as "Everyday Electronics", a no-frills, low cost, approach to modular embedded product design.
