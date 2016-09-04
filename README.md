@@ -18,8 +18,7 @@ to indicate what peripherals are installed.
 
 In this example, we use the [Grovey_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB) with the Teensy3.x to support a Grove 16x2 LCD panel.
 Since the Grove 16x2 LCD panel is a 5V peripheral, the [Grovey_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB) performs the voltage level translation
-necessary to go from the 3.3V Teensy3.x processor to the 5V LCD controller. The **TSOC_Teensy3x** also has an I2C output jack, but it is at a 3.3V level,
-and so, the [Grovey_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB) is necessary to convert to 5V I2C outputs.
+necessary to go from the 3.3V micro-processor to the 5V LCD controller. 
 
 [![thingSoC GROVEY_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/images/product/Grove_5V_I2C_LCD_panel.png?raw=true)TSOC_GROVEY_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/)
 
