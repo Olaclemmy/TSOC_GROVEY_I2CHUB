@@ -13,8 +13,8 @@ The **TSOC_GROVEY_I2CHUB**  Quick Start Guide is a series of quick steps to try 
    where X is the Port number that your installed your peripheral into
 4. Follow the instructions on your screen to configure the TSOC_GROVEY_I2CHUB for your application.
 
-[![thingSoC TSOC_GROVEY_I2CHUB](http://patternagents.github.io/img/projects/TSOC_GROVEY_I2CHUB/TSOC_GROVEY_I2CHUB_top.png)  
-*TSOC_GROVEY_I2CHUB*](https://github.com/PatternAgents/TSOC_GROVEY_I2CHUB/)
+
+[![thingSoC GROVEY_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/images/product/Grove_5V_I2C_LCD_panel.png?raw=true)TSOC_GROVEY_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/)
 
 ---------------------------------------
 

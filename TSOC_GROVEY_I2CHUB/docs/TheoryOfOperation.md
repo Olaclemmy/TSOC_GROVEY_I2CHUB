@@ -1,14 +1,16 @@
 # TSOC_GROVEY_I2CHUB Theory of Operation
 
-***TSOC_GROVEY_I2CHUB** is a self contained, Embedded Wi-Fi Module, with integated Li-Po battery control and charging.
+**TSOC_GROVEY_I2CHUB** is a four(4) port I2C Hub/Switch board, an Embedded Module for thingSoC.
 
-**TSOC_GROVEY_I2CHUB** includes an ESP8266 Wi-Fi module, 
-along with an [PCA8575 I/O Expander](http://www.nxp.com/documents/data_sheet/PCA8575.pdf) 
-to provide an additional 16 Input/Output pins for the thingSoC Standard Socket,
-and a Color RGB LED for USER status, with additonal, individual LEDS for Battery Charger Status and USB Status.
+The **TSOC_GROVEY_I2CHUB** can operate at either 3.3V or 5V, and can also level translate 3.3V processor I2C bus to 5V peripherals when needed.
 
-[![thingSoC TSOC_GROVEY_I2CHUB](http://patternagents.github.io/img/projects/TSOC_GROVEY_I2CHUB/TSOC_GROVEY_I2CHUB_top.png)  
-*TSOC_GROVEY_I2CHUB*](https://github.com/PatternAgents/TSOC_GROVEY_I2CHUB/)
+The **TSOC_GROVEY_I2CHUB** allows you to connect [thingSoC](http://thingsoc.github.io/), [Mikrobus](http://www.mikroe.com/mikrobus/), 
+and/or [Grove System](http://www.seeedstudio.com/blog/2016/03/09/tutorial-intro-to-grove-connectors-for-arduinoraspberry-pi-projects/) 
+Modules all at the same time, with any processor module.
+This gives you maximum flexiblity for sensor and actuator selection, and reuse. 
+
+
+[![thingSoC GROVEY_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/images/product/TSOC_GROVEY_I2CHUB_top.png?raw=true)TSOC_GROVEY_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/)
 
 * [Supported by the Arduino IDE](https://www.arduino.cc/) 
 * [thingSoC Compliant Module](http://www.thingsoc.com)
@@ -20,7 +22,7 @@ and a Color RGB LED for USER status, with additonal, individual LEDS for Battery
 
 The **TSOC_GROVEY_I2CHUB** supports a single "thingSoC" socket with 3.3 Volt Level signaling.
 
-### Page A : USB Connector, Battery Connector and Power Supply<a name="PAGEA"/>
+### Page A : ThingSoC Interface <a name="PAGEA"/>
 
 
 ![Schematic Page A](https://raw.githubusercontent.com/PatternAgents/TSOC_GROVEY_I2CHUB/master/TSOC_GROVEY_I2CHUB/docs/images/sch_page_1.png "Schematic Page A")
@@ -29,7 +31,7 @@ Limitations:
 
    
    
-### Page B : USB to UART Bridge Controller <a name="PAGEB"/>
+### Page B : I2C Hub Controller <a name="PAGEB"/>
 
 
 ![Schematic Page B](https://raw.githubusercontent.com/PatternAgents/TSOC_GROVEY_I2CHUB/master/TSOC_GROVEY_I2CHUB/docs/images/sch_page_2.png "Schematic Page B")

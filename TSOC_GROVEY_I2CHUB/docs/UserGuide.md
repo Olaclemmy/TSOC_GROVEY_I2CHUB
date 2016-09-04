@@ -1,11 +1,13 @@
 # TSOC_GROVEY_I2CHUB User Guide
 
-**TSOC_GROVEY_I2CHUB** is a self contained, Embedded Wi-Fi Module, with integated Li-Po battery control and charging.
+**TSOC_GROVEY_I2CHUB** is a four(4) port I2C Hub/Switch board, an Embedded Module for thingSoC.
 
-**TSOC_GROVEY_I2CHUB** includes an ESP8266 Wi-Fi module, 
-along with an [PCA8575 I/O Expander](http://www.nxp.com/documents/data_sheet/PCA8575.pdf) 
-to provide an additional 16 Input/Output pins for the thingSoC Standard Socket,
-and a Color RGB LED for USER status, with additonal, individual LEDS for Battery Charger Status and USB Status.
+The **TSOC_GROVEY_I2CHUB** can operate at either 3.3V or 5V, and can also level translate 3.3V processor I2C bus to 5V peripherals when needed.
+
+The **TSOC_GROVEY_I2CHUB** allows you to connect [thingSoC](http://thingsoc.github.io/), [Mikrobus](http://www.mikroe.com/mikrobus/), 
+and/or [Grove System](http://www.seeedstudio.com/blog/2016/03/09/tutorial-intro-to-grove-connectors-for-arduinoraspberry-pi-projects/) 
+Modules all at the same time, with any processor module.
+This gives you maximum flexiblity for sensor and actuator selection, and reuse. 
 
 ---------------------------------------
 
