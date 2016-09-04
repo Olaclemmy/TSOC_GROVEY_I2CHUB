@@ -56,11 +56,11 @@ and/or [Grove System](http://www.seeedstudio.com/blog/2016/03/09/tutorial-intro-
 
 ## Documentation Index <a name="documentation_index"/>
 
-[TSOC_GROVEY_I2CHUB Quick Start Guide](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/docs/QuickStart.md)
+[Quick Start Guide](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/docs/QuickStart.md)
 
-[TSOC_GROVEY_I2CHUB User Guide](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/docs/UserGuide.md)
+[User Guide](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/docs/UserGuide.md)
 
-[TSOC_GROVEY_I2CHUB Theory of Operation](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/docs/TheoryOfOperation.md)
+[Theory of Operation](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/docs/TheoryOfOperation.md)
 
 [thingSoC Organization Website](http://thingSoC.github.io)
 
