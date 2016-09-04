@@ -14,10 +14,6 @@ to indicate what peripherals are installed.
 
 [![thingSoC GROVEY_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/blob/master/TSOC_GROVEY_I2CHUB/images/product/TSOC_GROVEY_I2CHUB_top.png?raw=true)TSOC_GROVEY_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/)
 
-**thingSoC Reference Designs** are example thingSoC implementations that implement
-various reference and testing circuits for demonstrating the use of the thingSoC libraries.
-These reference designs can serve as starting templates for user designs.
-
 ---------------------------------------
 
 In this example, we use the [Grovey_I2CHUB](https://github.com/thingSoC/TSOC_GROVEY_I2CHUB) with the Teensy3.x to support a Grove 16x2 LCD panel.
