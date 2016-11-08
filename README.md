@@ -52,7 +52,7 @@ and/or [Grove System](http://www.seeedstudio.com/blog/2016/03/09/tutorial-intro-
 
 * Add Ground Strap, remove FM24V10 FRAM, add GROVE I2C Slave connector slot.
 
-Revision 2.1 Notes: ##
+## Revision 2.1 Notes: ##
 
 * Remove Ground Strap, it was confusing for power configuration and assembly.
 * Prototype testing complete, Production Ready
