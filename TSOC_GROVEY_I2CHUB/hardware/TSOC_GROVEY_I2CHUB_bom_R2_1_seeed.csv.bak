@@ -6,6 +6,6 @@ Part/Designator,Manufacture Part Number/Seeed SKU,Quantity
 "C5","302010013","1"
 "I2C1, I2C2, I2C3, I2C4","320110034","4"
 "I2CS", "320110033","1"
-"J1","320020079","1"
+J1,"320020079","1"
 "U1","PCA9546APWR","1"
 "D1","304090043","1"
